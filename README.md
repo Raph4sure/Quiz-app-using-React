@@ -1,1 +1,1 @@
-# DateCounter-Using-React
+# Quiz app-Using-React
